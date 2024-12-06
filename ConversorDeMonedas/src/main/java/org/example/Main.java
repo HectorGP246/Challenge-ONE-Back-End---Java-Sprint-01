@@ -80,6 +80,7 @@ public class Main {
                 JOptionPane.OK_CANCEL_OPTION,
                 JOptionPane.PLAIN_MESSAGE, null,
                 new String[]{"Salir"},
+                
                 null);
     }
 }
